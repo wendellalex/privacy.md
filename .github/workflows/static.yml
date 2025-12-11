@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - LM Telecom</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #1976d2;
+            border-bottom: 3px solid #1976d2;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #1976d2;
+            margin-top: 30px;
+        }
+        .last-updated {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .contact-info {
+            background-color: #f5f5f5;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidade</h1>
+    <p class="last-updated">Última atualização: Janeiro de 2025</p>
+
+    <h2>1. Introdução</h2>
+    <p>
+        A LM Telecom ("nós", "nosso" ou "empresa") respeita sua privacidade e está comprometida em proteger 
+        seus dados pessoais. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e 
+        protegemos suas informações quando você utiliza o aplicativo "LM Telecom - Boletos" (o "App").
+    </p>
+
+    <h2>2. Informações que Coletamos</h2>
+    <p>O aplicativo coleta as seguintes informações:</p>
+    <ul>
+        <li><strong>Dados de Autenticação:</strong> CPF e senha para acesso ao sistema</li>
+        <li><strong>Dados do Cliente:</strong> Informações do seu cadastro na LM Telecom, incluindo:
+            <ul>
+                <li>Nome completo</li>
+                <li>CPF</li>
+                <li>Endereço</li>
+                <li>Informações de planos contratados</li>
+                <li>Status da conta</li>
+            </ul>
+        </li>
+        <li><strong>Dados Financeiros:</strong> Informações sobre boletos e cobranças, incluindo:
+            <ul>
+                <li>Valores de boletos</li>
+                <li>Datas de vencimento</li>
+                <li>Status de pagamento</li>
+                <li>Códigos PIX e de barras</li>
+                <li>PDFs de boletos</li>
+            </ul>
+        </li>
+        <li><strong>Dados Técnicos:</strong> Informações sobre o dispositivo e uso do aplicativo (logs técnicos)</li>
+    </ul>
+
+    <h2>3. Como Usamos suas Informações</h2>
+    <p>Utilizamos suas informações para:</p>
+    <ul>
+        <li>Autenticar seu acesso ao sistema</li>
+        <li>Exibir seus boletos e informações de cobrança</li>
+        <li>Permitir a visualização e download de boletos em PDF</li>
+        <li>Facilitar o pagamento através de códigos PIX e de barras</li>
+        <li>Processar solicitações de desbloqueio de confiança</li>
+        <li>Melhorar nossos serviços e experiência do usuário</li>
+        <li>Garantir a segurança e prevenir fraudes</li>
+    </ul>
+
+    <h2>4. Base Legal para o Tratamento de Dados</h2>
+    <p>
+        O tratamento de seus dados pessoais é realizado com base na execução de contrato de prestação 
+        de serviços de telecomunicações, no cumprimento de obrigações legais e regulatórias, e no 
+        legítimo interesse da empresa em fornecer e melhorar seus serviços.
+    </p>
+
+    <h2>5. Compartilhamento de Informações</h2>
+    <p>
+        Não vendemos, alugamos ou compartilhamos suas informações pessoais com terceiros para fins 
+        comerciais. Podemos compartilhar suas informações apenas nas seguintes situações:
+    </p>
+    <ul>
+        <li><strong>Prestadores de Serviços:</strong> Com empresas que nos auxiliam na operação do 
+            aplicativo e na prestação de serviços (como hospedagem de servidores e processamento de pagamentos)</li>
+        <li><strong>Obrigações Legais:</strong> Quando exigido por lei, ordem judicial ou autoridade competente</li>
+        <li><strong>Proteção de Direitos:</strong> Para proteger nossos direitos, propriedade ou segurança, 
+            bem como de nossos clientes</li>
+    </ul>
+
+    <h2>6. Armazenamento e Segurança dos Dados</h2>
+    <p>
+        Seus dados são armazenados em servidores seguros e são transmitidos utilizando protocolos 
+        de criptografia. Implementamos medidas técnicas e organizacionais adequadas para proteger 
+        suas informações contra acesso não autorizado, alteração, divulgação ou destruição.
+    </p>
+    <p>
+        <strong>Importante:</strong> As credenciais de acesso (CPF e senha) não são armazenadas 
+        permanentemente no dispositivo. Os dados são mantidos apenas durante a sessão ativa do aplicativo.
+    </p>
+
+    <h2>7. Retenção de Dados</h2>
+    <p>
+        Mantemos suas informações pessoais pelo tempo necessário para cumprir os propósitos descritos 
+        nesta política, salvo quando um período de retenção mais longo for exigido ou permitido por lei.
+    </p>
+
+    <h2>8. Seus Direitos</h2>
+    <p>De acordo com a Lei Geral de Proteção de Dados (LGPD), você tem os seguintes direitos:</p>
+    <ul>
+        <li><strong>Acesso:</strong> Solicitar informações sobre quais dados pessoais temos sobre você</li>
+        <li><strong>Correção:</strong> Solicitar a correção de dados incompletos, inexatos ou desatualizados</li>
+        <li><strong>Exclusão:</strong> Solicitar a exclusão de dados desnecessários, excessivos ou 
+            tratados em desconformidade com a LGPD</li>
+        <li><strong>Portabilidade:</strong> Solicitar a portabilidade de seus dados para outro fornecedor</li>
+        <li><strong>Revogação de Consentimento:</strong> Revogar seu consentimento a qualquer momento</li>
+        <li><strong>Oposição:</strong> Opor-se ao tratamento de dados em certas circunstâncias</li>
+    </ul>
+    <p>
+        Para exercer seus direitos, entre em contato conosco através dos canais indicados na seção 
+        "Contato" desta política.
+    </p>
+
+    <h2>9. Permissões do Aplicativo</h2>
+    <p>O aplicativo solicita as seguintes permissões:</p>
+    <ul>
+        <li><strong>Internet:</strong> Necessária para comunicação com nossos servidores e API</li>
+        <li><strong>Armazenamento (Leitura/Escrita):</strong> Necessária para salvar e acessar PDFs de boletos 
+            no dispositivo</li>
+    </ul>
+    <p>
+        Essas permissões são essenciais para o funcionamento do aplicativo e não são utilizadas para 
+        coletar informações adicionais além do necessário para os serviços oferecidos.
+    </p>
+
+    <h2>10. Cookies e Tecnologias Similares</h2>
+    <p>
+        O aplicativo utiliza tokens de autenticação para manter sua sessão ativa. Esses tokens são 
+        necessários para o funcionamento do aplicativo e não são utilizados para rastreamento ou 
+        publicidade.
+    </p>
+
+    <h2>11. Privacidade de Menores</h2>
+    <p>
+        O aplicativo não é destinado a menores de 18 anos. Não coletamos intencionalmente informações 
+        pessoais de menores. Se tomarmos conhecimento de que coletamos informações de um menor, 
+        tomaremos medidas para excluir essas informações.
+    </p>
+
+    <h2>12. Alterações nesta Política</h2>
+    <p>
+        Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos você sobre 
+        alterações significativas publicando a nova política nesta página e atualizando a data de 
+        "Última atualização" no topo deste documento.
+    </p>
+
+    <h2>13. Lei Aplicável</h2>
+    <p>
+        Esta Política de Privacidade é regida pelas leis brasileiras, especialmente pela Lei Geral 
+        de Proteção de Dados (Lei nº 13.709/2018) e pelo Marco Civil da Internet (Lei nº 12.965/2014).
+    </p>
+
+    <div class="contact-info">
+        <h2>14. Contato</h2>
+        <p>
+            Se você tiver dúvidas, preocupações ou solicitações relacionadas a esta Política de 
+            Privacidade ou ao tratamento de seus dados pessoais, entre em contato conosco:
+        </p>
+        <p>
+            <strong>LM Telecom</strong><br>
+            <strong>E-mail:</strong> privacidade@lmtelecom.com.br<br>
+            <strong>Telefone:</strong> (83) [Número de contato]<br>
+            <strong>Endereço:</strong> Remigio - PB, Brasil
+        </p>
+        <p>
+            <strong>Encarregado de Proteção de Dados (DPO):</strong><br>
+            Caso você tenha dúvidas específicas sobre proteção de dados, você também pode entrar 
+            em contato com nosso Encarregado de Proteção de Dados através do e-mail: dpo@lmtelecom.com.br
+        </p>
+    </div>
+
+    <hr style="margin: 40px 0;">
+    <p style="text-align: center; color: #666; font-size: 0.9em;">
+        © 2025 LM Telecom. Todos os direitos reservados.
+    </p>
+</body>
+</html>
+
